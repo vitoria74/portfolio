@@ -31,6 +31,15 @@ body {
     width: 400px;
 }
 
+#clients {
+    padding-top: 40px;
+}
+
+.opinion {
+   padding: 40px;
+    
+}
+
 footer {
     display: flex;
     padding: 50px;
